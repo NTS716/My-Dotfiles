@@ -1,0 +1,7 @@
+!!Appearance
+urxvt.termName: rxvt-unicode-256color
+urxvt.scrollBar: false
+urxvt.cursorUnderline: true
+urxvt.transparent: true
+urxvt.shading: 35
+urxvt.font: 9x15
